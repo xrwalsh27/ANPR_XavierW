@@ -1,0 +1,15 @@
+1. There are three image folders: test, train, valid.
+2. As you look through the code there should be adequate notes that will mark every segment and its role.
+3. To run this program use the following inputs:
+
+    * Do not use brackets around the actual folder name. This is just for the documentation
+    * Everything is called through the terminal in the IDE and not run by clicking run in the IDE/codespace
+
+
+    a. python DriverScript.py -i [folder name] / gives base results no added elements
+    b. python DriverScript.py -i [folder name] -d 1 /allows you to run through all images with debug feature. Shows
+        raw computer input. Unlike in a. this will show every image in the folder and not just the cleaned results
+
+    c. python DriverScript.py -i [folder name] -c 1 /allows you to clean pixels around the border/ could give slightly
+        different results
+

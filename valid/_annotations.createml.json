@@ -1,0 +1,2314 @@
+[
+    {
+        "image": "f3814f4a6121838d_jpg.rf.013c5820d6d5d5ba2b50be4db73ae3ca.jpg",
+        "annotations": [
+            {
+                "label": "license-plate",
+                "coordinates": {
+                    "x": 303.5,
+                    "y": 210.5,
+                    "width": 46,
+                    "height": 34
+                }
+            },
+            {
+                "label": "vehicle",
+                "coordinates": {
+                    "x": 144.5,
+                    "y": 172.5,
+                    "width": 6.5,
+                    "height": 22
+                }
+            },
+            {
+                "label": "vehicle",
+                "coordinates": {
+                    "x": 298.5,
+                    "y": 194,
+                    "width": 186.5,
+                    "height": 345.5
+                }
+            },
+            {
+                "label": "vehicle",
+                "coordinates": {
+                    "x": 397.5,
+                    "y": 84,
+                    "width": 14,
+                    "height": 43
+                }
+            }
+        ]
+    },
+    {
+        "image": "e5edf93b7c9f5edb_jpg.rf.0cd64b1e0edab1f46d3d52eb35614787.jpg",
+        "annotations": [
+            {
+                "label": "license-plate",
+                "coordinates": {
+                    "x": 167,
+                    "y": 272,
+                    "width": 69,
+                    "height": 23
+                }
+            },
+            {
+                "label": "vehicle",
+                "coordinates": {
+                    "x": 220,
+                    "y": 219,
+                    "width": 300,
+                    "height": 246.5
+                }
+            }
+        ]
+    },
+    {
+        "image": "d8daed582e6cce2d_jpg.rf.03386ec76e971c1c9f6a49da8c28ec19.jpg",
+        "annotations": [
+            {
+                "label": "license-plate",
+                "coordinates": {
+                    "x": 252.5,
+                    "y": 222,
+                    "width": 103.5,
+                    "height": 73.5
+                }
+            },
+            {
+                "label": "vehicle",
+                "coordinates": {
+                    "x": 178.5,
+                    "y": 207.5,
+                    "width": 357,
+                    "height": 415
+                }
+            }
+        ]
+    },
+    {
+        "image": "ff85b09876d61631_jpg.rf.201dc4858f1861b27a121abceab0b15e.jpg",
+        "annotations": [
+            {
+                "label": "license-plate",
+                "coordinates": {
+                    "x": 212,
+                    "y": 290,
+                    "width": 81.5,
+                    "height": 32
+                }
+            },
+            {
+                "label": "vehicle",
+                "coordinates": {
+                    "x": 6,
+                    "y": 208,
+                    "width": 12,
+                    "height": 68
+                }
+            },
+            {
+                "label": "vehicle",
+                "coordinates": {
+                    "x": 208,
+                    "y": 242,
+                    "width": 367.5,
+                    "height": 325
+                }
+            },
+            {
+                "label": "vehicle",
+                "coordinates": {
+                    "x": 390,
+                    "y": 200,
+                    "width": 51.5,
+                    "height": 73
+                }
+            }
+        ]
+    },
+    {
+        "image": "efde2a25c1c9c924_jpg.rf.25d1271fa96830d3427e76a14756ab28.jpg",
+        "annotations": [
+            {
+                "label": "license-plate",
+                "coordinates": {
+                    "x": 292.5,
+                    "y": 278.5,
+                    "width": 68,
+                    "height": 24.5
+                }
+            },
+            {
+                "label": "vehicle",
+                "coordinates": {
+                    "x": 206.5,
+                    "y": 202.5,
+                    "width": 370,
+                    "height": 303.5
+                }
+            }
+        ]
+    },
+    {
+        "image": "ee047c8ca2cca8a2_jpg.rf.0bc64c938f8b5ab15cd02da914c129cc.jpg",
+        "annotations": [
+            {
+                "label": "vehicle",
+                "coordinates": {
+                    "x": 348.5,
+                    "y": 153,
+                    "width": 134.5,
+                    "height": 230
+                }
+            },
+            {
+                "label": "vehicle",
+                "coordinates": {
+                    "x": 180.5,
+                    "y": 191.5,
+                    "width": 361,
+                    "height": 383
+                }
+            },
+            {
+                "label": "license-plate",
+                "coordinates": {
+                    "x": 219.5,
+                    "y": 202.5,
+                    "width": 116,
+                    "height": 43
+                }
+            }
+        ]
+    },
+    {
+        "image": "ebaefbcb87bfa8a1_jpg.rf.1ab6203a81b2a33810c05e8dc13a6564.jpg",
+        "annotations": [
+            {
+                "label": "license-plate",
+                "coordinates": {
+                    "x": 131,
+                    "y": 324.5,
+                    "width": 37,
+                    "height": 36
+                }
+            },
+            {
+                "label": "vehicle",
+                "coordinates": {
+                    "x": 227,
+                    "y": 228,
+                    "width": 336.5,
+                    "height": 263
+                }
+            }
+        ]
+    },
+    {
+        "image": "f194eaf4f3d1d835_jpg.rf.2e7c958e01b6b9bf13508cfc614d908c.jpg",
+        "annotations": [
+            {
+                "label": "license-plate",
+                "coordinates": {
+                    "x": 139,
+                    "y": 275,
+                    "width": 44.5,
+                    "height": 46
+                }
+            },
+            {
+                "label": "vehicle",
+                "coordinates": {
+                    "x": 249.5,
+                    "y": 204,
+                    "width": 295,
+                    "height": 273.5
+                }
+            },
+            {
+                "label": "vehicle",
+                "coordinates": {
+                    "x": 126.5,
+                    "y": 96.5,
+                    "width": 43.5,
+                    "height": 24
+                }
+            },
+            {
+                "label": "vehicle",
+                "coordinates": {
+                    "x": 194,
+                    "y": 96.5,
+                    "width": 61,
+                    "height": 38.5
+                }
+            }
+        ]
+    },
+    {
+        "image": "f3c9af100984744f_jpg.rf.01491d4fac670507042e004209d38e88.jpg",
+        "annotations": [
+            {
+                "label": "license-plate",
+                "coordinates": {
+                    "x": 11,
+                    "y": 176.5,
+                    "width": 18.5,
+                    "height": 18
+                }
+            },
+            {
+                "label": "vehicle",
+                "coordinates": {
+                    "x": 24.5,
+                    "y": 153.5,
+                    "width": 49,
+                    "height": 125
+                }
+            },
+            {
+                "label": "vehicle",
+                "coordinates": {
+                    "x": 221,
+                    "y": 237,
+                    "width": 389,
+                    "height": 257.5
+                }
+            },
+            {
+                "label": "vehicle",
+                "coordinates": {
+                    "x": 78,
+                    "y": 119,
+                    "width": 98.5,
+                    "height": 51
+                }
+            }
+        ]
+    },
+    {
+        "image": "f5d1729aa333b284_jpg.rf.0a241e6c8cfebc2ee5a5a931954e5da7.jpg",
+        "annotations": [
+            {
+                "label": "license-plate",
+                "coordinates": {
+                    "x": 47.5,
+                    "y": 137.5,
+                    "width": 27.5,
+                    "height": 16
+                }
+            },
+            {
+                "label": "license-plate",
+                "coordinates": {
+                    "x": 318,
+                    "y": 297.5,
+                    "width": 50,
+                    "height": 54
+                }
+            },
+            {
+                "label": "vehicle",
+                "coordinates": {
+                    "x": 44.5,
+                    "y": 98.5,
+                    "width": 88.5,
+                    "height": 136.5
+                }
+            },
+            {
+                "label": "vehicle",
+                "coordinates": {
+                    "x": 205.5,
+                    "y": 202,
+                    "width": 311,
+                    "height": 297.5
+                }
+            }
+        ]
+    },
+    {
+        "image": "f6256bceaf66693f_jpg.rf.3d5dc6962e641d544cbf59697833caa6.jpg",
+        "annotations": [
+            {
+                "label": "license-plate",
+                "coordinates": {
+                    "x": 250,
+                    "y": 330,
+                    "width": 98.5,
+                    "height": 54
+                }
+            },
+            {
+                "label": "vehicle",
+                "coordinates": {
+                    "x": 176,
+                    "y": 204,
+                    "width": 352,
+                    "height": 384.5
+                }
+            }
+        ]
+    },
+    {
+        "image": "de2b5afb7eda96cf_jpg.rf.3298a50d54a9435a62b804689b4b437a.jpg",
+        "annotations": [
+            {
+                "label": "license-plate",
+                "coordinates": {
+                    "x": 71.5,
+                    "y": 132.5,
+                    "width": 12.5,
+                    "height": 14.5
+                }
+            },
+            {
+                "label": "license-plate",
+                "coordinates": {
+                    "x": 331.5,
+                    "y": 265,
+                    "width": 38,
+                    "height": 33.5
+                }
+            },
+            {
+                "label": "vehicle",
+                "coordinates": {
+                    "x": 57,
+                    "y": 142,
+                    "width": 114,
+                    "height": 160.5
+                }
+            },
+            {
+                "label": "vehicle",
+                "coordinates": {
+                    "x": 213,
+                    "y": 191,
+                    "width": 382.5,
+                    "height": 293
+                }
+            },
+            {
+                "label": "vehicle",
+                "coordinates": {
+                    "x": 381.5,
+                    "y": 134.5,
+                    "width": 68,
+                    "height": 115.5
+                }
+            },
+            {
+                "label": "vehicle",
+                "coordinates": {
+                    "x": 406,
+                    "y": 234,
+                    "width": 19,
+                    "height": 110.5
+                }
+            }
+        ]
+    },
+    {
+        "image": "f1131b93a33cefb9_jpg.rf.3ac3c2c994e62ac4887ae7e6d7ba4bd0.jpg",
+        "annotations": [
+            {
+                "label": "license-plate",
+                "coordinates": {
+                    "x": 193,
+                    "y": 324,
+                    "width": 62,
+                    "height": 48.5
+                }
+            },
+            {
+                "label": "vehicle",
+                "coordinates": {
+                    "x": 6,
+                    "y": 104.5,
+                    "width": 12,
+                    "height": 137
+                }
+            },
+            {
+                "label": "vehicle",
+                "coordinates": {
+                    "x": 195,
+                    "y": 218,
+                    "width": 304.5,
+                    "height": 382.5
+                }
+            },
+            {
+                "label": "vehicle",
+                "coordinates": {
+                    "x": 403.5,
+                    "y": 203,
+                    "width": 24.5,
+                    "height": 176
+                }
+            }
+        ]
+    },
+    {
+        "image": "e9561d7c16db565f_jpg.rf.26cc0d0cc7658dc2ce4433d9034683c9.jpg",
+        "annotations": [
+            {
+                "label": "license-plate",
+                "coordinates": {
+                    "x": 111,
+                    "y": 214.5,
+                    "width": 48.5,
+                    "height": 40.5
+                }
+            },
+            {
+                "label": "vehicle",
+                "coordinates": {
+                    "x": 41.5,
+                    "y": 142.5,
+                    "width": 83,
+                    "height": 139
+                }
+            },
+            {
+                "label": "vehicle",
+                "coordinates": {
+                    "x": 204.5,
+                    "y": 242.5,
+                    "width": 382.5,
+                    "height": 297.5
+                }
+            },
+            {
+                "label": "vehicle",
+                "coordinates": {
+                    "x": 368,
+                    "y": 183,
+                    "width": 95.5,
+                    "height": 190.5
+                }
+            }
+        ]
+    },
+    {
+        "image": "da1352ab6054a2e4_jpg.rf.1cc96761ed6a1cafa604c877cdcfa249.jpg",
+        "annotations": [
+            {
+                "label": "license-plate",
+                "coordinates": {
+                    "x": 204,
+                    "y": 273.5,
+                    "width": 234,
+                    "height": 151
+                }
+            },
+            {
+                "label": "vehicle",
+                "coordinates": {
+                    "x": 207.5,
+                    "y": 207.5,
+                    "width": 415,
+                    "height": 415
+                }
+            }
+        ]
+    },
+    {
+        "image": "fdd963edc28bf163_jpg.rf.0ceca3ffee4d2cedea59ed66b5fce75f.jpg",
+        "annotations": [
+            {
+                "label": "license-plate",
+                "coordinates": {
+                    "x": 260,
+                    "y": 227,
+                    "width": 137.5,
+                    "height": 55
+                }
+            },
+            {
+                "label": "vehicle",
+                "coordinates": {
+                    "x": 214.5,
+                    "y": 189,
+                    "width": 393,
+                    "height": 377.5
+                }
+            }
+        ]
+    },
+    {
+        "image": "d648b2ae1abc09f3_jpg.rf.3451503900a53564047347dc902024a2.jpg",
+        "annotations": [
+            {
+                "label": "license-plate",
+                "coordinates": {
+                    "x": 187,
+                    "y": 274,
+                    "width": 98,
+                    "height": 25.5
+                }
+            },
+            {
+                "label": "license-plate",
+                "coordinates": {
+                    "x": 404.5,
+                    "y": 206.5,
+                    "width": 22.5,
+                    "height": 11
+                }
+            },
+            {
+                "label": "vehicle",
+                "coordinates": {
+                    "x": 208,
+                    "y": 216.5,
+                    "width": 415.5,
+                    "height": 269
+                }
+            }
+        ]
+    },
+    {
+        "image": "d5058059dc0ce0ad_jpg.rf.50a59f230c5dc764a2c36abe44b97e1d.jpg",
+        "annotations": [
+            {
+                "label": "license-plate",
+                "coordinates": {
+                    "x": 223,
+                    "y": 231,
+                    "width": 80,
+                    "height": 37.5
+                }
+            },
+            {
+                "label": "license-plate",
+                "coordinates": {
+                    "x": 372.5,
+                    "y": 86,
+                    "width": 8.5,
+                    "height": 5
+                }
+            },
+            {
+                "label": "vehicle",
+                "coordinates": {
+                    "x": 215.5,
+                    "y": 207.5,
+                    "width": 333.5,
+                    "height": 414.5
+                }
+            }
+        ]
+    },
+    {
+        "image": "ec8a36f7874c0c34_jpg.rf.4ad121688724db215a0006e80251e53a.jpg",
+        "annotations": [
+            {
+                "label": "license-plate",
+                "coordinates": {
+                    "x": 101,
+                    "y": 219.5,
+                    "width": 46,
+                    "height": 15
+                }
+            },
+            {
+                "label": "vehicle",
+                "coordinates": {
+                    "x": 80,
+                    "y": 128,
+                    "width": 84,
+                    "height": 138.5
+                }
+            },
+            {
+                "label": "vehicle",
+                "coordinates": {
+                    "x": 140,
+                    "y": 167.5,
+                    "width": 178,
+                    "height": 155.5
+                }
+            },
+            {
+                "label": "vehicle",
+                "coordinates": {
+                    "x": 370.5,
+                    "y": 92,
+                    "width": 90,
+                    "height": 81
+                }
+            }
+        ]
+    },
+    {
+        "image": "d44c0b2252bf8a92_jpg.rf.0995fee700253a3ce0b78c661fff9c77.jpg",
+        "annotations": [
+            {
+                "label": "license-plate",
+                "coordinates": {
+                    "x": 195.5,
+                    "y": 222.5,
+                    "width": 64,
+                    "height": 29
+                }
+            },
+            {
+                "label": "vehicle",
+                "coordinates": {
+                    "x": 196.5,
+                    "y": 184.5,
+                    "width": 273.5,
+                    "height": 344.5
+                }
+            }
+        ]
+    },
+    {
+        "image": "d53a3bc813477685_jpg.rf.59f7ed2aba87b0665ed2c68d08a3eb45.jpg",
+        "annotations": [
+            {
+                "label": "license-plate",
+                "coordinates": {
+                    "x": 188.5,
+                    "y": 251,
+                    "width": 38,
+                    "height": 17.5
+                }
+            },
+            {
+                "label": "vehicle",
+                "coordinates": {
+                    "x": 249,
+                    "y": 255,
+                    "width": 244,
+                    "height": 262
+                }
+            }
+        ]
+    },
+    {
+        "image": "e1120bfe48f85c1b_jpg.rf.53f3da676938aee7f3d78438d98a741e.jpg",
+        "annotations": [
+            {
+                "label": "license-plate",
+                "coordinates": {
+                    "x": 102,
+                    "y": 219.5,
+                    "width": 55,
+                    "height": 34.5
+                }
+            },
+            {
+                "label": "vehicle",
+                "coordinates": {
+                    "x": 208,
+                    "y": 138.5,
+                    "width": 415.5,
+                    "height": 87
+                }
+            },
+            {
+                "label": "vehicle",
+                "coordinates": {
+                    "x": 218,
+                    "y": 217,
+                    "width": 371.5,
+                    "height": 330
+                }
+            }
+        ]
+    },
+    {
+        "image": "dec4608715b2d28d_jpg.rf.50fd9a4fdbe998abbdc298b27cd9ae1e.jpg",
+        "annotations": [
+            {
+                "label": "license-plate",
+                "coordinates": {
+                    "x": 126.5,
+                    "y": 318,
+                    "width": 96.5,
+                    "height": 45
+                }
+            },
+            {
+                "label": "vehicle",
+                "coordinates": {
+                    "x": 68.5,
+                    "y": 146.5,
+                    "width": 137,
+                    "height": 245
+                }
+            },
+            {
+                "label": "vehicle",
+                "coordinates": {
+                    "x": 206,
+                    "y": 209,
+                    "width": 406,
+                    "height": 398.5
+                }
+            }
+        ]
+    },
+    {
+        "image": "e9fdd0a41cb61da6_jpg.rf.656fd48ffc3fada5132b953f736c81fa.jpg",
+        "annotations": [
+            {
+                "label": "license-plate",
+                "coordinates": {
+                    "x": 174,
+                    "y": 235.5,
+                    "width": 68.5,
+                    "height": 46
+                }
+            },
+            {
+                "label": "vehicle",
+                "coordinates": {
+                    "x": 208,
+                    "y": 232.5,
+                    "width": 415,
+                    "height": 365.5
+                }
+            }
+        ]
+    },
+    {
+        "image": "f53243c2bb551b8a_jpg.rf.5d1943699e59e1ab415bed51051ac728.jpg",
+        "annotations": [
+            {
+                "label": "license-plate",
+                "coordinates": {
+                    "x": 37.5,
+                    "y": 236,
+                    "width": 16,
+                    "height": 38.5
+                }
+            },
+            {
+                "label": "vehicle",
+                "coordinates": {
+                    "x": 204,
+                    "y": 199.5,
+                    "width": 385,
+                    "height": 366
+                }
+            }
+        ]
+    },
+    {
+        "image": "d7d49b1a3706f3eb_jpg.rf.5aabf123bc9869f4f1bcb6da3642c58b.jpg",
+        "annotations": [
+            {
+                "label": "license-plate",
+                "coordinates": {
+                    "x": 95.5,
+                    "y": 269.5,
+                    "width": 47.5,
+                    "height": 36
+                }
+            },
+            {
+                "label": "vehicle",
+                "coordinates": {
+                    "x": 26.5,
+                    "y": 201,
+                    "width": 53,
+                    "height": 108.5
+                }
+            },
+            {
+                "label": "vehicle",
+                "coordinates": {
+                    "x": 196,
+                    "y": 207,
+                    "width": 319,
+                    "height": 353.5
+                }
+            }
+        ]
+    },
+    {
+        "image": "e40cafe0f0d3a550_jpg.rf.4723f3c94efe1585d431e875059da02d.jpg",
+        "annotations": [
+            {
+                "label": "license-plate",
+                "coordinates": {
+                    "x": 43.5,
+                    "y": 253,
+                    "width": 36.5,
+                    "height": 70
+                }
+            },
+            {
+                "label": "vehicle",
+                "coordinates": {
+                    "x": 216,
+                    "y": 207.5,
+                    "width": 398,
+                    "height": 415
+                }
+            }
+        ]
+    },
+    {
+        "image": "d3729058c6a4186e_jpg.rf.7b93b9b84f702138e29c507a88bcdcf8.jpg",
+        "annotations": [
+            {
+                "label": "license-plate",
+                "coordinates": {
+                    "x": 269,
+                    "y": 213.5,
+                    "width": 64,
+                    "height": 31
+                }
+            },
+            {
+                "label": "vehicle",
+                "coordinates": {
+                    "x": 238.5,
+                    "y": 209,
+                    "width": 216.5,
+                    "height": 227
+                }
+            }
+        ]
+    },
+    {
+        "image": "f9f539977bfea25e_jpg.rf.7e552e7ec59f662071a91f28b630b2d6.jpg",
+        "annotations": [
+            {
+                "label": "license-plate",
+                "coordinates": {
+                    "x": 206.5,
+                    "y": 319.5,
+                    "width": 48,
+                    "height": 36
+                }
+            },
+            {
+                "label": "vehicle",
+                "coordinates": {
+                    "x": 36.5,
+                    "y": 64.5,
+                    "width": 73,
+                    "height": 52
+                }
+            },
+            {
+                "label": "vehicle",
+                "coordinates": {
+                    "x": 57,
+                    "y": 201.5,
+                    "width": 114,
+                    "height": 254.5
+                }
+            },
+            {
+                "label": "vehicle",
+                "coordinates": {
+                    "x": 124,
+                    "y": 92,
+                    "width": 116.5,
+                    "height": 113.5
+                }
+            },
+            {
+                "label": "vehicle",
+                "coordinates": {
+                    "x": 210,
+                    "y": 218,
+                    "width": 222.5,
+                    "height": 293.5
+                }
+            },
+            {
+                "label": "vehicle",
+                "coordinates": {
+                    "x": 382,
+                    "y": 186,
+                    "width": 67,
+                    "height": 189.5
+                }
+            }
+        ]
+    },
+    {
+        "image": "d59b7a0ff294e3be_jpg.rf.7de44e7ed2850e39c014a587a09a9521.jpg",
+        "annotations": [
+            {
+                "label": "license-plate",
+                "coordinates": {
+                    "x": 203.5,
+                    "y": 284,
+                    "width": 52,
+                    "height": 19.5
+                }
+            },
+            {
+                "label": "vehicle",
+                "coordinates": {
+                    "x": 220,
+                    "y": 227.5,
+                    "width": 256,
+                    "height": 258.5
+                }
+            }
+        ]
+    },
+    {
+        "image": "e9cd346a4a84d594_jpg.rf.5d4115c863143b9368f24fc6f80a72b8.jpg",
+        "annotations": [
+            {
+                "label": "license-plate",
+                "coordinates": {
+                    "x": 154,
+                    "y": 277,
+                    "width": 76,
+                    "height": 54.5
+                }
+            },
+            {
+                "label": "vehicle",
+                "coordinates": {
+                    "x": 21.5,
+                    "y": 194,
+                    "width": 43,
+                    "height": 227
+                }
+            },
+            {
+                "label": "vehicle",
+                "coordinates": {
+                    "x": 208.5,
+                    "y": 204,
+                    "width": 413,
+                    "height": 405
+                }
+            }
+        ]
+    },
+    {
+        "image": "fe6139d150a3e2a8_jpg.rf.8edada9f804dbd300352a94b9173de87.jpg",
+        "annotations": [
+            {
+                "label": "license-plate",
+                "coordinates": {
+                    "x": 205.5,
+                    "y": 307.5,
+                    "width": 90,
+                    "height": 25
+                }
+            },
+            {
+                "label": "license-plate",
+                "coordinates": {
+                    "x": 253,
+                    "y": 95.5,
+                    "width": 68,
+                    "height": 19.5
+                }
+            },
+            {
+                "label": "vehicle",
+                "coordinates": {
+                    "x": 207,
+                    "y": 98.5,
+                    "width": 274.5,
+                    "height": 183
+                }
+            },
+            {
+                "label": "vehicle",
+                "coordinates": {
+                    "x": 206,
+                    "y": 303,
+                    "width": 263,
+                    "height": 225.5
+                }
+            }
+        ]
+    },
+    {
+        "image": "e79f6777f2fc08b2_jpg.rf.998e7d2e9ea4b5d8bd74e17553a16d1c.jpg",
+        "annotations": [
+            {
+                "label": "license-plate",
+                "coordinates": {
+                    "x": 221.5,
+                    "y": 293.5,
+                    "width": 122,
+                    "height": 48
+                }
+            },
+            {
+                "label": "vehicle",
+                "coordinates": {
+                    "x": 221.5,
+                    "y": 217.5,
+                    "width": 388.5,
+                    "height": 357.5
+                }
+            },
+            {
+                "label": "vehicle",
+                "coordinates": {
+                    "x": 59.5,
+                    "y": 28.5,
+                    "width": 46.5,
+                    "height": 32.5
+                }
+            },
+            {
+                "label": "vehicle",
+                "coordinates": {
+                    "x": 84.5,
+                    "y": 35.5,
+                    "width": 55,
+                    "height": 33.5
+                }
+            },
+            {
+                "label": "vehicle",
+                "coordinates": {
+                    "x": 121,
+                    "y": 16.5,
+                    "width": 26.5,
+                    "height": 19
+                }
+            }
+        ]
+    },
+    {
+        "image": "f3d472955c13cae0_jpg.rf.5cd7ff38d9e391c2885c53e63b71c4fc.jpg",
+        "annotations": [
+            {
+                "label": "license-plate",
+                "coordinates": {
+                    "x": 210,
+                    "y": 306,
+                    "width": 101,
+                    "height": 24.5
+                }
+            },
+            {
+                "label": "license-plate",
+                "coordinates": {
+                    "x": 374,
+                    "y": 60,
+                    "width": 6,
+                    "height": 6
+                }
+            },
+            {
+                "label": "vehicle",
+                "coordinates": {
+                    "x": 208,
+                    "y": 198,
+                    "width": 415.5,
+                    "height": 396
+                }
+            }
+        ]
+    },
+    {
+        "image": "fa9147596edc058f_jpg.rf.7c861ca9e4b176c808355fe12c238f1c.jpg",
+        "annotations": [
+            {
+                "label": "license-plate",
+                "coordinates": {
+                    "x": 270,
+                    "y": 267.5,
+                    "width": 35.5,
+                    "height": 37
+                }
+            },
+            {
+                "label": "vehicle",
+                "coordinates": {
+                    "x": 162,
+                    "y": 207.5,
+                    "width": 324,
+                    "height": 307.5
+                }
+            },
+            {
+                "label": "vehicle",
+                "coordinates": {
+                    "x": 365,
+                    "y": 150,
+                    "width": 101.5,
+                    "height": 299.5
+                }
+            }
+        ]
+    },
+    {
+        "image": "e2427db217e5c3db_jpg.rf.87aa3327cd912e683eccc27e7504fd4e.jpg",
+        "annotations": [
+            {
+                "label": "license-plate",
+                "coordinates": {
+                    "x": 50,
+                    "y": 253.5,
+                    "width": 36.5,
+                    "height": 58
+                }
+            },
+            {
+                "label": "vehicle",
+                "coordinates": {
+                    "x": 216.5,
+                    "y": 199,
+                    "width": 376.5,
+                    "height": 333
+                }
+            },
+            {
+                "label": "vehicle",
+                "coordinates": {
+                    "x": 388,
+                    "y": 72,
+                    "width": 55,
+                    "height": 56
+                }
+            }
+        ]
+    },
+    {
+        "image": "d8cc6d566d01054b_jpg.rf.87ca0828b3ff99c4851e049976dbd842.jpg",
+        "annotations": [
+            {
+                "label": "license-plate",
+                "coordinates": {
+                    "x": 372.5,
+                    "y": 237.5,
+                    "width": 76,
+                    "height": 45.5
+                }
+            },
+            {
+                "label": "vehicle",
+                "coordinates": {
+                    "x": 208.5,
+                    "y": 208,
+                    "width": 404.5,
+                    "height": 132.5
+                }
+            },
+            {
+                "label": "vehicle",
+                "coordinates": {
+                    "x": 208.5,
+                    "y": 71.5,
+                    "width": 404,
+                    "height": 128
+                }
+            },
+            {
+                "label": "vehicle",
+                "coordinates": {
+                    "x": 162.5,
+                    "y": 346.5,
+                    "width": 310.5,
+                    "height": 126
+                }
+            }
+        ]
+    },
+    {
+        "image": "da8186b39f042cdf_jpg.rf.b2ffe293241ac81cd560c8509c826a2c.jpg",
+        "annotations": [
+            {
+                "label": "license-plate",
+                "coordinates": {
+                    "x": 190,
+                    "y": 233.5,
+                    "width": 48,
+                    "height": 15.5
+                }
+            },
+            {
+                "label": "vehicle",
+                "coordinates": {
+                    "x": 190,
+                    "y": 184.5,
+                    "width": 277.5,
+                    "height": 157
+                }
+            },
+            {
+                "label": "vehicle",
+                "coordinates": {
+                    "x": 266.5,
+                    "y": 104.5,
+                    "width": 45.5,
+                    "height": 25
+                }
+            }
+        ]
+    },
+    {
+        "image": "e57d38ae6a921518_jpg.rf.8924c9a0254a3c5fe0589ad3a3c49791.jpg",
+        "annotations": [
+            {
+                "label": "license-plate",
+                "coordinates": {
+                    "x": 110,
+                    "y": 249,
+                    "width": 46.5,
+                    "height": 45.5
+                }
+            },
+            {
+                "label": "license-plate",
+                "coordinates": {
+                    "x": 412.5,
+                    "y": 81,
+                    "width": 6.5,
+                    "height": 6
+                }
+            },
+            {
+                "label": "vehicle",
+                "coordinates": {
+                    "x": 198.5,
+                    "y": 188,
+                    "width": 397,
+                    "height": 320
+                }
+            },
+            {
+                "label": "vehicle",
+                "coordinates": {
+                    "x": 404,
+                    "y": 63,
+                    "width": 23,
+                    "height": 50.5
+                }
+            }
+        ]
+    },
+    {
+        "image": "daac3a6c64a79bea_jpg.rf.a1a14b3209547b4456386f7b8bc385ad.jpg",
+        "annotations": [
+            {
+                "label": "license-plate",
+                "coordinates": {
+                    "x": 62.5,
+                    "y": 158.5,
+                    "width": 78.5,
+                    "height": 22.5
+                }
+            },
+            {
+                "label": "license-plate",
+                "coordinates": {
+                    "x": 203,
+                    "y": 368,
+                    "width": 83.5,
+                    "height": 22
+                }
+            },
+            {
+                "label": "vehicle",
+                "coordinates": {
+                    "x": 76.5,
+                    "y": 96,
+                    "width": 153,
+                    "height": 192
+                }
+            },
+            {
+                "label": "vehicle",
+                "coordinates": {
+                    "x": 207.5,
+                    "y": 110,
+                    "width": 415,
+                    "height": 220
+                }
+            },
+            {
+                "label": "vehicle",
+                "coordinates": {
+                    "x": 214.5,
+                    "y": 319.5,
+                    "width": 265.5,
+                    "height": 192
+                }
+            },
+            {
+                "label": "vehicle",
+                "coordinates": {
+                    "x": 353.5,
+                    "y": 33,
+                    "width": 96,
+                    "height": 45.5
+                }
+            },
+            {
+                "label": "vehicle",
+                "coordinates": {
+                    "x": 403,
+                    "y": 29,
+                    "width": 24.5,
+                    "height": 38
+                }
+            }
+        ]
+    },
+    {
+        "image": "d5f4069e6734ac06_jpg.rf.a56a7fe6fa63495583c618e5deccee88.jpg",
+        "annotations": [
+            {
+                "label": "license-plate",
+                "coordinates": {
+                    "x": 124.5,
+                    "y": 233,
+                    "width": 40,
+                    "height": 42
+                }
+            },
+            {
+                "label": "license-plate",
+                "coordinates": {
+                    "x": 395,
+                    "y": 155.5,
+                    "width": 8,
+                    "height": 4.5
+                }
+            },
+            {
+                "label": "vehicle",
+                "coordinates": {
+                    "x": 209.5,
+                    "y": 233,
+                    "width": 319.5,
+                    "height": 255
+                }
+            },
+            {
+                "label": "vehicle",
+                "coordinates": {
+                    "x": 357.5,
+                    "y": 154,
+                    "width": 57,
+                    "height": 58.5
+                }
+            },
+            {
+                "label": "vehicle",
+                "coordinates": {
+                    "x": 395.5,
+                    "y": 145.5,
+                    "width": 40,
+                    "height": 58
+                }
+            }
+        ]
+    },
+    {
+        "image": "f3bd3adea149193b_jpg.rf.8711f9cf71ce14ff2a27b80cb74a0640.jpg",
+        "annotations": [
+            {
+                "label": "license-plate",
+                "coordinates": {
+                    "x": 92,
+                    "y": 367,
+                    "width": 57,
+                    "height": 73
+                }
+            },
+            {
+                "label": "vehicle",
+                "coordinates": {
+                    "x": 24,
+                    "y": 151,
+                    "width": 47.5,
+                    "height": 220
+                }
+            },
+            {
+                "label": "vehicle",
+                "coordinates": {
+                    "x": 194,
+                    "y": 211,
+                    "width": 378.5,
+                    "height": 408.5
+                }
+            }
+        ]
+    },
+    {
+        "image": "f700c5b69c973db6_jpg.rf.84262bc04536e11b5182e3d0b653144a.jpg",
+        "annotations": [
+            {
+                "label": "license-plate",
+                "coordinates": {
+                    "x": 155,
+                    "y": 215,
+                    "width": 44.5,
+                    "height": 19.5
+                }
+            },
+            {
+                "label": "vehicle",
+                "coordinates": {
+                    "x": 250,
+                    "y": 168,
+                    "width": 284,
+                    "height": 190
+                }
+            }
+        ]
+    },
+    {
+        "image": "d7b71c9fd144d58d_jpg.rf.344e728f4fcbc87ff0e85e1219875fde.jpg",
+        "annotations": [
+            {
+                "label": "license-plate",
+                "coordinates": {
+                    "x": 294,
+                    "y": 212,
+                    "width": 70.5,
+                    "height": 30.5
+                }
+            },
+            {
+                "label": "vehicle",
+                "coordinates": {
+                    "x": 188,
+                    "y": 241.5,
+                    "width": 371,
+                    "height": 246
+                }
+            }
+        ]
+    },
+    {
+        "image": "fb4e60b5cee8b88e_jpg.rf.b4845134001c4183f4102cf6f53b4337.jpg",
+        "annotations": [
+            {
+                "label": "license-plate",
+                "coordinates": {
+                    "x": 241,
+                    "y": 289.5,
+                    "width": 108.5,
+                    "height": 36
+                }
+            },
+            {
+                "label": "license-plate",
+                "coordinates": {
+                    "x": 213,
+                    "y": 106.5,
+                    "width": 43,
+                    "height": 11.5
+                }
+            },
+            {
+                "label": "vehicle",
+                "coordinates": {
+                    "x": 70.5,
+                    "y": 69.5,
+                    "width": 113,
+                    "height": 29
+                }
+            },
+            {
+                "label": "vehicle",
+                "coordinates": {
+                    "x": 222,
+                    "y": 315.5,
+                    "width": 387,
+                    "height": 194.5
+                }
+            },
+            {
+                "label": "vehicle",
+                "coordinates": {
+                    "x": 205,
+                    "y": 110.5,
+                    "width": 266,
+                    "height": 125.5
+                }
+            }
+        ]
+    },
+    {
+        "image": "ed7d99098d4af8e6_jpg.rf.a5ec56269e3f60a294b81a36476c4578.jpg",
+        "annotations": [
+            {
+                "label": "license-plate",
+                "coordinates": {
+                    "x": 79,
+                    "y": 219.5,
+                    "width": 47.5,
+                    "height": 19
+                }
+            },
+            {
+                "label": "vehicle",
+                "coordinates": {
+                    "x": 208,
+                    "y": 231.5,
+                    "width": 370,
+                    "height": 201.5
+                }
+            }
+        ]
+    },
+    {
+        "image": "e52d4f347b2cf90f_jpg.rf.9f3fabde331c83601a0b75f8ce6d4363.jpg",
+        "annotations": [
+            {
+                "label": "license-plate",
+                "coordinates": {
+                    "x": 223,
+                    "y": 251,
+                    "width": 48.5,
+                    "height": 35
+                }
+            },
+            {
+                "label": "vehicle",
+                "coordinates": {
+                    "x": 50,
+                    "y": 183.5,
+                    "width": 100,
+                    "height": 193.5
+                }
+            },
+            {
+                "label": "vehicle",
+                "coordinates": {
+                    "x": 225,
+                    "y": 233,
+                    "width": 241,
+                    "height": 239
+                }
+            },
+            {
+                "label": "vehicle",
+                "coordinates": {
+                    "x": 314,
+                    "y": 149.5,
+                    "width": 18.5,
+                    "height": 15
+                }
+            },
+            {
+                "label": "vehicle",
+                "coordinates": {
+                    "x": 386,
+                    "y": 222,
+                    "width": 59,
+                    "height": 132.5
+                }
+            },
+            {
+                "label": "vehicle",
+                "coordinates": {
+                    "x": 382.5,
+                    "y": 157,
+                    "width": 39.5,
+                    "height": 31.5
+                }
+            }
+        ]
+    },
+    {
+        "image": "fd07d2db70cf53d5_jpg.rf.cbe13b5b6bf07cef4668714db2c4d27a.jpg",
+        "annotations": [
+            {
+                "label": "license-plate",
+                "coordinates": {
+                    "x": 70.5,
+                    "y": 317.5,
+                    "width": 62,
+                    "height": 26.5
+                }
+            },
+            {
+                "label": "vehicle",
+                "coordinates": {
+                    "x": 209,
+                    "y": 267.5,
+                    "width": 410.5,
+                    "height": 248.5
+                }
+            }
+        ]
+    },
+    {
+        "image": "ea02d99ba51372ee_jpg.rf.cc3e2726efd58438ae80fe7558a3430b.jpg",
+        "annotations": [
+            {
+                "label": "license-plate",
+                "coordinates": {
+                    "x": 48,
+                    "y": 175.5,
+                    "width": 14,
+                    "height": 5.5
+                }
+            },
+            {
+                "label": "license-plate",
+                "coordinates": {
+                    "x": 93,
+                    "y": 337,
+                    "width": 57.5,
+                    "height": 40
+                }
+            },
+            {
+                "label": "license-plate",
+                "coordinates": {
+                    "x": 280,
+                    "y": 141,
+                    "width": 6.5,
+                    "height": 4.5
+                }
+            },
+            {
+                "label": "license-plate",
+                "coordinates": {
+                    "x": 337.5,
+                    "y": 179.5,
+                    "width": 19.5,
+                    "height": 8
+                }
+            },
+            {
+                "label": "vehicle",
+                "coordinates": {
+                    "x": 11,
+                    "y": 171,
+                    "width": 21.5,
+                    "height": 70
+                }
+            },
+            {
+                "label": "vehicle",
+                "coordinates": {
+                    "x": 168,
+                    "y": 253.5,
+                    "width": 299,
+                    "height": 234
+                }
+            },
+            {
+                "label": "vehicle",
+                "coordinates": {
+                    "x": 84.5,
+                    "y": 159.5,
+                    "width": 105,
+                    "height": 59
+                }
+            },
+            {
+                "label": "vehicle",
+                "coordinates": {
+                    "x": 204,
+                    "y": 132,
+                    "width": 38,
+                    "height": 10
+                }
+            },
+            {
+                "label": "vehicle",
+                "coordinates": {
+                    "x": 241,
+                    "y": 132.5,
+                    "width": 34,
+                    "height": 13
+                }
+            },
+            {
+                "label": "vehicle",
+                "coordinates": {
+                    "x": 286,
+                    "y": 137,
+                    "width": 29,
+                    "height": 20.5
+                }
+            },
+            {
+                "label": "vehicle",
+                "coordinates": {
+                    "x": 344,
+                    "y": 161.5,
+                    "width": 66,
+                    "height": 59.5
+                }
+            }
+        ]
+    },
+    {
+        "image": "d9fa2abf3719a4bd_jpg.rf.b23a4781435fb7973f2d6afb66c1a169.jpg",
+        "annotations": [
+            {
+                "label": "license-plate",
+                "coordinates": {
+                    "x": 55,
+                    "y": 228,
+                    "width": 92.5,
+                    "height": 64
+                }
+            },
+            {
+                "label": "vehicle",
+                "coordinates": {
+                    "x": 149.5,
+                    "y": 149.5,
+                    "width": 299,
+                    "height": 299
+                }
+            }
+        ]
+    },
+    {
+        "image": "feaf383fc5de383f_jpg.rf.c5dbef8443e9fd214eea976a90a18f13.jpg",
+        "annotations": [
+            {
+                "label": "license-plate",
+                "coordinates": {
+                    "x": 205.5,
+                    "y": 392.5,
+                    "width": 79,
+                    "height": 43
+                }
+            },
+            {
+                "label": "vehicle",
+                "coordinates": {
+                    "x": 195,
+                    "y": 208,
+                    "width": 384.5,
+                    "height": 415
+                }
+            },
+            {
+                "label": "vehicle",
+                "coordinates": {
+                    "x": 23.5,
+                    "y": 81,
+                    "width": 42,
+                    "height": 99.5
+                }
+            },
+            {
+                "label": "vehicle",
+                "coordinates": {
+                    "x": 361,
+                    "y": 64,
+                    "width": 55.5,
+                    "height": 46.5
+                }
+            }
+        ]
+    },
+    {
+        "image": "e08424f3cd5f6dac_jpg.rf.adfb3272bf93fcacecf2717dc9017cfc.jpg",
+        "annotations": [
+            {
+                "label": "license-plate",
+                "coordinates": {
+                    "x": 199.5,
+                    "y": 186,
+                    "width": 83.5,
+                    "height": 56.5
+                }
+            },
+            {
+                "label": "vehicle",
+                "coordinates": {
+                    "x": 198.5,
+                    "y": 169,
+                    "width": 397,
+                    "height": 338
+                }
+            }
+        ]
+    },
+    {
+        "image": "e1925cd0ae28fbd9_jpg.rf.8b647795483a7440c0740f82bbb27ecd.jpg",
+        "annotations": [
+            {
+                "label": "license-plate",
+                "coordinates": {
+                    "x": 212.5,
+                    "y": 262.5,
+                    "width": 48.5,
+                    "height": 32
+                }
+            },
+            {
+                "label": "vehicle",
+                "coordinates": {
+                    "x": 41.5,
+                    "y": 140,
+                    "width": 28,
+                    "height": 35.5
+                }
+            },
+            {
+                "label": "vehicle",
+                "coordinates": {
+                    "x": 72,
+                    "y": 138.5,
+                    "width": 11.5,
+                    "height": 13.5
+                }
+            },
+            {
+                "label": "vehicle",
+                "coordinates": {
+                    "x": 207.5,
+                    "y": 253,
+                    "width": 277.5,
+                    "height": 325
+                }
+            },
+            {
+                "label": "vehicle",
+                "coordinates": {
+                    "x": 89,
+                    "y": 135.5,
+                    "width": 16.5,
+                    "height": 24
+                }
+            },
+            {
+                "label": "vehicle",
+                "coordinates": {
+                    "x": 376.5,
+                    "y": 131.5,
+                    "width": 16.5,
+                    "height": 19.5
+                }
+            }
+        ]
+    },
+    {
+        "image": "f83d18919353c483_jpg.rf.c8beeec60c666e6f3488c8d67c0f13cd.jpg",
+        "annotations": [
+            {
+                "label": "license-plate",
+                "coordinates": {
+                    "x": 140,
+                    "y": 286.5,
+                    "width": 59,
+                    "height": 20.5
+                }
+            },
+            {
+                "label": "vehicle",
+                "coordinates": {
+                    "x": 190.5,
+                    "y": 222.5,
+                    "width": 254.5,
+                    "height": 242
+                }
+            },
+            {
+                "label": "vehicle",
+                "coordinates": {
+                    "x": 408.5,
+                    "y": 98.5,
+                    "width": 14.5,
+                    "height": 42.5
+                }
+            }
+        ]
+    },
+    {
+        "image": "f5c2a80a21ddb78c_jpg.rf.b39c112d7e368f89af4d4e84df4c0444.jpg",
+        "annotations": [
+            {
+                "label": "license-plate",
+                "coordinates": {
+                    "x": 118.5,
+                    "y": 152.5,
+                    "width": 67,
+                    "height": 27.5
+                }
+            },
+            {
+                "label": "vehicle",
+                "coordinates": {
+                    "x": 162,
+                    "y": 158.5,
+                    "width": 276.5,
+                    "height": 253.5
+                }
+            }
+        ]
+    },
+    {
+        "image": "fa897478280a2758_jpg.rf.d2bf1e1044188ef8857c525e4ffaf9fb.jpg",
+        "annotations": [
+            {
+                "label": "license-plate",
+                "coordinates": {
+                    "x": 252,
+                    "y": 273.5,
+                    "width": 73.5,
+                    "height": 46.5
+                }
+            },
+            {
+                "label": "vehicle",
+                "coordinates": {
+                    "x": 208,
+                    "y": 232.5,
+                    "width": 415.5,
+                    "height": 366
+                }
+            }
+        ]
+    },
+    {
+        "image": "f9170e8c13a99991_jpg.rf.d7cbeb13c4b399490ec2509636538441.jpg",
+        "annotations": [
+            {
+                "label": "license-plate",
+                "coordinates": {
+                    "x": 200.5,
+                    "y": 72,
+                    "width": 99.5,
+                    "height": 58
+                }
+            }
+        ]
+    },
+    {
+        "image": "fed5c0275ff3a440_jpg.rf.e5109ca74608d31d401d0d1e6e8e6ad9.jpg",
+        "annotations": [
+            {
+                "label": "license-plate",
+                "coordinates": {
+                    "x": 58.5,
+                    "y": 244,
+                    "width": 69.5,
+                    "height": 51
+                }
+            },
+            {
+                "label": "license-plate",
+                "coordinates": {
+                    "x": 396.5,
+                    "y": 136,
+                    "width": 38,
+                    "height": 31
+                }
+            },
+            {
+                "label": "vehicle",
+                "coordinates": {
+                    "x": 188.5,
+                    "y": 193,
+                    "width": 376.5,
+                    "height": 385.5
+                }
+            },
+            {
+                "label": "vehicle",
+                "coordinates": {
+                    "x": 361.5,
+                    "y": 97,
+                    "width": 108,
+                    "height": 193.5
+                }
+            }
+        ]
+    },
+    {
+        "image": "f0c7057612710f21_jpg.rf.c87e603671206576d491e89b48e83c1d.jpg",
+        "annotations": [
+            {
+                "label": "license-plate",
+                "coordinates": {
+                    "x": 202.5,
+                    "y": 348.5,
+                    "width": 81,
+                    "height": 68.5
+                }
+            },
+            {
+                "label": "vehicle",
+                "coordinates": {
+                    "x": 206.5,
+                    "y": 207.5,
+                    "width": 413,
+                    "height": 415
+                }
+            }
+        ]
+    },
+    {
+        "image": "f5128e7a123b4fa8_jpg.rf.f0b1b11e39538a41d4cf9793804ed412.jpg",
+        "annotations": [
+            {
+                "label": "license-plate",
+                "coordinates": {
+                    "x": 263,
+                    "y": 240.5,
+                    "width": 51,
+                    "height": 40.5
+                }
+            },
+            {
+                "label": "vehicle",
+                "coordinates": {
+                    "x": 28.5,
+                    "y": 169,
+                    "width": 57,
+                    "height": 161.5
+                }
+            }
+        ]
+    },
+    {
+        "image": "d830c3573e57bfc0_jpg.rf.e7fc2d97efb8e6132fbcf3626a5f041e.jpg",
+        "annotations": [
+            {
+                "label": "license-plate",
+                "coordinates": {
+                    "x": 192.5,
+                    "y": 329,
+                    "width": 52,
+                    "height": 26
+                }
+            },
+            {
+                "label": "vehicle",
+                "coordinates": {
+                    "x": 198.5,
+                    "y": 241.5,
+                    "width": 396,
+                    "height": 348
+                }
+            }
+        ]
+    },
+    {
+        "image": "defd8f4b30b3e1e1_jpg.rf.e0acef146000f69bf51b82aa3b62cb90.jpg",
+        "annotations": [
+            {
+                "label": "license-plate",
+                "coordinates": {
+                    "x": 94,
+                    "y": 233,
+                    "width": 56.5,
+                    "height": 72.5
+                }
+            },
+            {
+                "label": "vehicle",
+                "coordinates": {
+                    "x": 224.5,
+                    "y": 233.5,
+                    "width": 382.5,
+                    "height": 364
+                }
+            }
+        ]
+    },
+    {
+        "image": "fb55b73f241bf50a_jpg.rf.fbe131c0c520f889a41a27afcbfdaad6.jpg",
+        "annotations": [
+            {
+                "label": "license-plate",
+                "coordinates": {
+                    "x": 211.5,
+                    "y": 268.5,
+                    "width": 125,
+                    "height": 50
+                }
+            },
+            {
+                "label": "vehicle",
+                "coordinates": {
+                    "x": 207,
+                    "y": 218.5,
+                    "width": 413.5,
+                    "height": 394
+                }
+            }
+        ]
+    },
+    {
+        "image": "f73b754cdb1ab677_jpg.rf.fbaf4ab9ba4b4c1149fd1339aadbbde7.jpg",
+        "annotations": [
+            {
+                "label": "license-plate",
+                "coordinates": {
+                    "x": 310.5,
+                    "y": 326.5,
+                    "width": 65,
+                    "height": 27
+                }
+            },
+            {
+                "label": "vehicle",
+                "coordinates": {
+                    "x": 266.5,
+                    "y": 279.5,
+                    "width": 273.5,
+                    "height": 235
+                }
+            }
+        ]
+    },
+    {
+        "image": "edecf3a6d569b7c9_jpg.rf.f254a9095f9d6054bae04137aa9fcfb5.jpg",
+        "annotations": [
+            {
+                "label": "license-plate",
+                "coordinates": {
+                    "x": 59.5,
+                    "y": 341,
+                    "width": 119,
+                    "height": 40
+                }
+            },
+            {
+                "label": "vehicle",
+                "coordinates": {
+                    "x": 207.5,
+                    "y": 218.5,
+                    "width": 415,
+                    "height": 389
+                }
+            }
+        ]
+    },
+    {
+        "image": "d565d93637d4e76d_jpg.rf.f52836c9876bfd0e5089f88a6b62024c.jpg",
+        "annotations": [
+            {
+                "label": "license-plate",
+                "coordinates": {
+                    "x": 241,
+                    "y": 315.5,
+                    "width": 64,
+                    "height": 29
+                }
+            },
+            {
+                "label": "vehicle",
+                "coordinates": {
+                    "x": 198,
+                    "y": 248.5,
+                    "width": 231.5,
+                    "height": 270.5
+                }
+            }
+        ]
+    },
+    {
+        "image": "ff69d090c735eccb_jpg.rf.f9aa9152d27698703b9fbc6026a7fd54.jpg",
+        "annotations": [
+            {
+                "label": "license-plate",
+                "coordinates": {
+                    "x": 272,
+                    "y": 224.5,
+                    "width": 118.5,
+                    "height": 78.5
+                }
+            },
+            {
+                "label": "vehicle",
+                "coordinates": {
+                    "x": 188,
+                    "y": 184.5,
+                    "width": 376,
+                    "height": 369
+                }
+            },
+            {
+                "label": "vehicle",
+                "coordinates": {
+                    "x": 342.5,
+                    "y": 74,
+                    "width": 146.5,
+                    "height": 148
+                }
+            }
+        ]
+    },
+    {
+        "image": "d8f6c135ec5486ff_jpg.rf.d67a8d28a1ce8c4b4336cf832d2a8da7.jpg",
+        "annotations": [
+            {
+                "label": "license-plate",
+                "coordinates": {
+                    "x": 351.5,
+                    "y": 281.5,
+                    "width": 55,
+                    "height": 45.5
+                }
+            },
+            {
+                "label": "vehicle",
+                "coordinates": {
+                    "x": 213,
+                    "y": 227.5,
+                    "width": 365.5,
+                    "height": 277.5
+                }
+            }
+        ]
+    },
+    {
+        "image": "e82f13b4a2fe69f3_jpg.rf.f148aee9acbf4ed4796fb7e5276c591f.jpg",
+        "annotations": [
+            {
+                "label": "license-plate",
+                "coordinates": {
+                    "x": 233.5,
+                    "y": 318,
+                    "width": 335,
+                    "height": 109
+                }
+            }
+        ]
+    },
+    {
+        "image": "e742e284c7c9da96_jpg.rf.c04de3ca8144406aae57e58a0767a90b.jpg",
+        "annotations": [
+            {
+                "label": "license-plate",
+                "coordinates": {
+                    "x": 368.5,
+                    "y": 263.5,
+                    "width": 41,
+                    "height": 48
+                }
+            },
+            {
+                "label": "vehicle",
+                "coordinates": {
+                    "x": 214.5,
+                    "y": 181.5,
+                    "width": 402.5,
+                    "height": 304
+                }
+            },
+            {
+                "label": "vehicle",
+                "coordinates": {
+                    "x": 371.5,
+                    "y": 95.5,
+                    "width": 88.5,
+                    "height": 74
+                }
+            }
+        ]
+    }
+]
